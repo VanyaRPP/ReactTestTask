@@ -1,0 +1,4 @@
+export const ADD_DATA='DATA/ADD_DATA'
+export const ADD_TO_CART='DATA/ADD_TO_CART'
+export const DEL_FROM_CART='DATA/DEL_FROM_CART'
+export const SHOW_LOADER='APP/SHOW_LOADER'
